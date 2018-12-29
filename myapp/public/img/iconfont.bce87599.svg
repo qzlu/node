@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="shouye" unicode="&#58883;" d="M418.93376-79.27808v327.424h185.91744v-327.424h232.40192v436.57216h139.43296L511.89248 848.42496 47.104 357.28896h139.43296v-436.56192h232.39168v-0.00512z m0 0"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
